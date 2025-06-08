@@ -4,4 +4,5 @@ Así que, con mi experiencia usándolo —que no es mucha— he creado esta pequ
 Pero sin tener que vender medio riñón para usarlo, básicamente:
 
 - Una guía práctica para usar .NET al máximo sin gastar dinero.
+
 (toda recomendacion o correccion acerca del contenido en la guia es aceptada).
